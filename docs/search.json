@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blogpost Example\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAmor\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA sample work\n\n\n\n\n\n\nblog with code\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlfham mandi\n\n\n\n\n\n\nblog post\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post.html",
+    "href": "posts/post.html",
+    "title": "blogpost example",
+    "section": "",
+    "text": "Amor es un suspiro en la noche serena, un abrazo eterno que el alma enajena, es la risa y el llanto en un mismo segundo, es la fuerza que mueve y da vida al mundo.\nEs mirar en tus ojos y perderme en su brillo, es soñar con un futuro donde todo es sencillo, es sentir en el pecho un latido sincero, es un lazo invisible que nos une, te quiero.\nEs el canto del viento entre los árboles altos, es el dulce murmullo de los mares y lagos, es la paz que se encuentra en un beso callado, es el fuego que arde, aunque estemos cansados.\nAmor es todo y nada, es principio y fin, es la razón por la que siempre quiero sonreír, es la llama eterna que nunca se apaga, es la historia más bella jamás contada."
+  },
+  {
+    "objectID": "posts/another_post.html",
+    "href": "posts/another_post.html",
+    "title": "Blogpost Example",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "objectID": "posts/post_with_code.html",
+    "href": "posts/post_with_code.html",
+    "title": "A sample work",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\nCode\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "Workshops Attended",
+    "section": "",
+    "text": "2024\n\nAdvanced Tools for Literate Programming and Machine Learning, August 6-7, 2024"
+  },
+  {
+    "objectID": "posts/recipe.html",
+    "href": "posts/recipe.html",
+    "title": "Alfham mandi",
+    "section": "",
+    "text": "إليك وصفة لمنى الألفام العربية:\nالمكونات:\n2 كيلوغرام من لحم الضأن (مقطع إلى قطع كبيرة) 2 كوب من الأرز البسمتي 1 بصلة كبيرة (مفرومة ناعماً) 4 فصوص من الثوم (مفرومة ناعماً) 2 حبة طماطم (مفرومة) 1/4 كوب من زيت الزيتون 1 ملعقة صغيرة من الكركم 1 ملعقة صغيرة من الكمون 1 ملعقة صغيرة من الكزبرة المطحونة 1 ملعقة صغيرة من البابريكا 1/2 ملعقة صغيرة من الفلفل الأسود 1/2 ملعقة صغيرة من القرفة 1/2 ملعقة صغيرة من الهيل المطحون 1/2 ملعقة صغيرة من القرنفل المطحون 1 ورقة غار 2 عود قرفة 4 حبات هيل كاملة 2 حبة قرنفل كاملة ملح حسب الذوق 4 أكواب من الماء زعفران (منقوع في ماء دافئ)\nطريقة التحضير:\n\nتحضير اللحم:\n\nفي وعاء كبير، سخني زيت الزيتون على نار متوسطة.\nأضيفي البصل المفروم والثوم وقلبي حتى يصبح لون البصل ذهبياً.\nأضيفي قطع اللحم وقلبيها حتى تتحمر من جميع الجوانب.\n\nتحضير التوابل:\n\nأضيفي الطماطم المفرومة إلى اللحم وقلبي جيداً.\nأضيفي الكركم، الكمون، الكزبرة، البابريكا، الفلفل الأسود، القرفة، الهيل المطحون، والقرنفل المطحون. قلبي جيداً حتى تتجانس المكونات.\n\nطبخ اللحم:\n\nأضيفي ورقة الغار، أعواد القرفة، حبات الهيل الكاملة، وحبات القرنفل الكاملة إلى الوعاء.\nأضيفي 4 أكواب من الماء واتركي المزيج ليغلي.\nغطي الوعاء وخففي النار واتركي اللحم ينضج لمدة ساعتين تقريباً أو حتى يصبح طرياً.\n\nتحضير الأرز:\n\nاغسلي الأرز البسمتي جيداً وانقعيه في الماء لمدة 30 دقيقة.\nفي وعاء آخر، سخني القليل من الزيت وأضيفي الأرز المنقوع بعد تصفيته.\nأضيفي الماء والملح واطبخي الأرز حتى ينضج.\n\nالتقديم:\n\nفي طبق تقديم كبير، ضعي الأرز أولاً ثم أضيفي قطع اللحم فوق الأرز.\nرشي ماء الزعفران على الوجه للحصول على لون ونكهة رائعة.\nزيني الطبق بالمكسرات المحمصة (مثل اللوز والصنوبر) إذا رغبت.\n\n\nاستمتعي بوجبتك اللذيذة!"
+  }
+]

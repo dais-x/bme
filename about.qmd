@@ -1,0 +1,5 @@
+---
+title: "About me"
+---
+
+I am a dedicated Computer Science Engineering student with a strong passion for technology and innovation. With a solid foundation in programming, software development, and systems analysis, I thrive on solving complex problems and creating efficient, scalable solutions. My experience spans various domains, including web development, database management, and cybersecurity, allowing me to approach challenges with a comprehensive and versatile skill set. I am continuously learning and staying updated with the latest advancements in the tech world, driven by my enthusiasm for exploring new technologies and improving existing systems. In my free time, I enjoy collaborating on open-source projects and contributing to the tech community.

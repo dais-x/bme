@@ -1,0 +1,30 @@
+---
+categories:
+- blog post
+format:
+  html:
+    df-print: paged
+    toc: true
+text: About amor
+title: Amor
+
+---
+  Amor es un suspiro en la noche serena,
+  un abrazo eterno que el alma enajena,
+  es la risa y el llanto en un mismo segundo,
+  es la fuerza que mueve y da vida al mundo.
+
+  Es mirar en tus ojos y perderme en su brillo,
+  es soñar con un futuro donde todo es sencillo,
+  es sentir en el pecho un latido sincero,
+  es un lazo invisible que nos une, te quiero.
+
+  Es el canto del viento entre los árboles altos,
+  es el dulce murmullo de los mares y lagos,
+  es la paz que se encuentra en un beso callado,
+  es el fuego que arde, aunque estemos cansados.
+
+  Amor es todo y nada, es principio y fin,
+  es la razón por la que siempre quiero sonreír,
+  es la llama eterna que nunca se apaga,
+  es la historia más bella jamás contada.
